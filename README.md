@@ -1,3 +1,3 @@
 # hello-world
 welcome to my world
-print('海贼王')
+我是海贼王
